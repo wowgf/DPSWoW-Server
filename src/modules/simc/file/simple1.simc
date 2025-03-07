@@ -1,0 +1,12 @@
+deathknight=狼王灬
+race=blood_elf
+level=80
+spec=unholy
+role=attack
+talents=CwPAtbMOTHlnKIwUyAn+DK70SDAzYMzMGjFjZmZmGzMmZMjBAAAAAAAAAmZMzMmZmBAsZGmFMzMzDMzMDYzsZYIDMbM0YBAmBA
+# Ironclaw Great Axe 583
+main_hand=,id=222470,enchant_id=3368,bonus_id=11297/11298/9625/11142,crafted_stats=40/49
+
+json2=report3.json iterations=1000
+
+

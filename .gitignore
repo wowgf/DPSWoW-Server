@@ -1,0 +1,26 @@
+logs/
+cache/
+npm-debug.log
+yarn-error.log
+node_modules/
+package-lock.json
+yarn.lock
+coverage/
+dist/
+.idea/
+run/
+.DS_Store
+*.sw*
+*.un~
+.tsbuildinfo
+.tsbuildinfo.*
+data/*
+pnpm-lock.yaml
+public/uploads/*
+
+# 脚本和编译文件
+script/
+bin/*
+!bin/*/
+output/
+build/

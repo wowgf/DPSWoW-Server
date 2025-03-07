@@ -1,0 +1,140 @@
+{
+    "players": [
+        {
+            "bugs": true,
+            "name": "火灬炎龙",
+            "race": "orc",
+            "role": "attack",
+            "level": 80,
+            "party": 0,
+            "talents": "CcEAmidFBOBFf5oKuZ7r/WeW7AYYmZMjZmZmFLLLjZAAAAYw0wMDLDzAjlxMzgZGGz4BYGGAAAAAAAMjZZMGgtAjltBWADYGmQGgN",
+            "brain_lag": 0,
+            "timeofday": "NIGHT_TIME",
+            "world_lag": 0.1,
+            "ready_type": 0,
+            "potion_used": false,
+            "reaction_nu": 0.15,
+            "reaction_max": 1.4,
+            "scale_player": true,
+            "reaction_mean": 0.25,
+            "zandalari_loa": "paku",
+            "invert_scaling": 0,
+            "profile_source": "default",
+            "specialization": "Arms Warrior",
+            "vulpera_tricks": "corrosive",
+            "earthen_mineral": "ruby",
+            "reaction_offset": 0.1,
+            "reaction_stddev": 0.05,
+            "brain_lag_stddev": 0,
+            "world_lag_stddev": 0.01,
+            "valid_fight_style": true
+        }
+    ],
+    "statistics": {
+        "raid_dps": {
+            "max": 807980.7483205363,
+            "min": 653343.2582856833,
+            "sum": 735740088.5992851,
+            "mean": 736476.5651644496,
+            "count": 999,
+            "median": 736451.8888914369,
+            "std_dev": 24027.63853105468,
+            "variance": 577327413.3790236,
+            "mean_std_dev": 760.2008410267126,
+            "mean_variance": 577905.3186977212
+        },
+        "total_dmg": {
+            "sum": 220506833468.8621,
+            "mean": 220727561.0298919,
+            "count": 999
+        },
+        "init_time_seconds": 0.066719542,
+        "simulation_length": {
+            "max": 359.76,
+            "min": 240.06,
+            "sum": 299632.293,
+            "mean": 299.93222522522524,
+            "count": 999,
+            "median": 300.06,
+            "std_dev": 34.63230281050168,
+            "variance": 1199.3963979582825,
+            "mean_std_dev": 1.0957175707969804,
+            "mean_variance": 1.2005969949532356
+        },
+        "merge_time_seconds": 0.0022087910000000003,
+        "elapsed_cpu_seconds": 7.234696,
+        "analyze_time_seconds": 0.002899833,
+        "elapsed_time_seconds": 1.886025042,
+        "total_events_processed": 36845359
+    },
+    "profilesets": {
+        "metric": "Damage per Second",
+        "results": [
+            {
+                "max": 771043.8936632028,
+                "min": 631342.04288282,
+                "mean": 706505.152510216,
+                "name": "Combo 6",
+                "median": 706659.8380909652,
+                "stddev": 22530.03340346153,
+                "iterations": 1000,
+                "mean_error": 1397.099002957471,
+                "mean_stddev": 712.8187116488798,
+                "first_quartile": 691268.4515889566,
+                "third_quartile": 720202.190250216
+            },
+            {
+                "max": 804644.8247323536,
+                "min": 637151.1441407644,
+                "mean": 729047.130258896,
+                "name": "Combo 5",
+                "median": 728894.554219694,
+                "stddev": 23608.85273282485,
+                "iterations": 1000,
+                "mean_error": 1463.9971465347094,
+                "mean_stddev": 746.9510447301315,
+                "first_quartile": 712111.4008591938,
+                "third_quartile": 745041.6229438732
+            },
+            {
+                "max": 803504.6827270034,
+                "min": 626701.4602359069,
+                "mean": 708439.1895935162,
+                "name": "Combo 3",
+                "median": 706937.5056843514,
+                "stddev": 22999.68217053532,
+                "iterations": 1000,
+                "mean_error": 1426.2221654698797,
+                "mean_stddev": 727.6777410643264,
+                "first_quartile": 693408.5380579999,
+                "third_quartile": 723653.6604364378
+            },
+            {
+                "max": 773699.9569476125,
+                "min": 621749.925580762,
+                "mean": 702407.2554849106,
+                "name": "Combo 4",
+                "median": 702225.1975094795,
+                "stddev": 23362.551407509643,
+                "iterations": 1000,
+                "mean_error": 1448.7238741936171,
+                "mean_stddev": 739.158415653886,
+                "first_quartile": 687480.1364880959,
+                "third_quartile": 717197.1373680951
+            },
+            {
+                "max": 796953.5715528908,
+                "min": 651030.3857634354,
+                "mean": 716095.8748166303,
+                "name": "Combo 2",
+                "median": 714881.5693909789,
+                "stddev": 22845.75817044536,
+                "iterations": 1000,
+                "mean_error": 1416.6772587577634,
+                "mean_stddev": 722.8078012168734,
+                "first_quartile": 700770.715620713,
+                "third_quartile": 731013.0311479631
+            }
+        ]
+    }
+}

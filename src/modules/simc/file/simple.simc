@@ -1,0 +1,22 @@
+#!./simc
+
+# Base Actor
+deathknight=狼王灬
+race=blood_elf
+level=80
+spec=unholy
+role=attack
+talents=CwPAtbMOTHlnKIwUyAn+DK70SDAzYMzMGjFjZmZmGzMmZMjBAAAAAAAAAmZMzMmZmBAsZGmFMzMzDMzMDYzsZYIDMbM0YBAmBA
+# Ironclaw Great Axe 583
+main_hand=,id=222470,enchant_id=3368,bonus_id=11297/11298/9625/11142,crafted_stats=40/49
+
+# Simulation Options
+iterations=1000
+html=./src/modules/simc/outputreport.html
+json2=./src/modules/simc/outputreport.json
+
+ # Here is how we enable the log.
+ log=1
+
+ # It may also be a good idea to print it out on a file rather than the standard output:
+ output=./src/modules/simc/output/log.txt

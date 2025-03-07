@@ -1,0 +1,130 @@
+# 火灬炎龙 - Arms - 2024-10-31 10:13 - CN/格瑞姆巴托
+# SimC Addon 11.0.5-01
+# WoW 11.0.5.57292, TOC 110005
+# Requires SimulationCraft 1000-01 or newer
+
+warrior="火灬炎龙"
+level=80
+race=orc
+region=cn
+server=格瑞姆巴托
+role=attack
+professions=engineering=48/skinning=100
+spec=arms
+
+talents=CcEAmidFBOBFf5oKuZ7r/WeW7AgtZMjxMz8Az2stsMzMAAAAMYaYmhlZMDMjxMzgZGGYYGGAAAAAAAMjZZMGAxwYZbWMz2wmhhZmZajmBYB
+
+# Saved Loadout: 武器战pve-1
+# talents=CcEAmidFBOBFf5oKuZ7r/WeW7AYYmZMjZMzsZbZZMDAAAADGDzMsMMDMWGzMDmZYYMMDDAAAAAAAmxsMGDwCGAAAAAAA
+# Saved Loadout: pvp
+# talents=CcEAmidFBOBFf5oKuZ7r/WeW7AYmtZmxMmZmZ2sssMGAAAAMYMMmHwyMmBmZZgBzMMMGmxMAAAAAAAYGWGMALYAAAAAAAA
+# Saved Loadout: 测试
+# talents=CcEAmidFBOBFf5oKuZ7r/WeW7AgtZMjxMz8Az2stsMzMAAAAMYMjZwyMmBmxYmZwMDDMMDDAAAAAAAmxsMGDAMAAAAAAA
+# Saved Loadout: 测试2
+# talents=CcEAmidFBOBFf5oKuZ7r/WeW7AgtZMjxMz8Az2stsMzMAAAAMYMjZwyMmBmxYmZwMDDMMDDAAAAAAAmxsMGDAMAAAAAAA
+
+# 塑战者的开面盔 (590)
+head=,id=211984,bonus_id=10876/10279/10371/1491
+# “紧急制动”钥匙链 (571)
+neck=,id=221077,bonus_id=10297/10388/42/10394/10392/1606/10254
+# 塑战者的利角护甲 (584)
+shoulder=,id=211982,bonus_id=10281/10369/1485
+# 谐律之宝石纺织披风 (561)
+back=,id=224664,bonus_id=10288/6652/1713/1633
+# 塑战者的衬皮胸铠 (597)
+chest=,id=211987,bonus_id=10353/10373/6652/10277/1498/10255
+# 小宝的丝带 (1)
+shirt=,id=52019
+# 搜寻者的腕甲 (597)
+wrist=,id=150473,bonus_id=10273/10377/7756/10032/10255
+# 燎火之沉积岩护手 (584)
+hands=,id=224692,bonus_id=10281/6652/1696/10377/1656/10255
+# 流光晨曦束腰 (603)
+waist=,id=225746,bonus_id=6652/10876/10376/10354/10271/1504/10255
+# 塑战者的腿甲 (597)
+legs=,id=211983,bonus_id=10353/10370/6652/10277/1498/10255
+# 暗色壁垒之靴 (584)
+feet=,id=225590,bonus_id=6652/10378/10353/10281/1485/10255
+# 曙光之宝石镶嵌戒指 (584)
+finger1=,id=224662,bonus_id=10281/6652/10395/10392/1771/1656/10255
+# 无尽盘蛇之戒 (610)
+finger2=,id=171478,enchant_id=7335,bonus_id=10265/7756/8902/10017/10255
+# 阿加竞争者的勋章  (558)
+trinket1=,id=219931,bonus_id=11318/9627/10840,crafting_quality=5
+# 阿加竞争者的纹章  (558)
+trinket2=,id=219933,bonus_id=11318/9627/10840,crafting_quality=5
+# 阿努巴拉什的硕大颌骨 (606)
+main_hand=,id=212407,bonus_id=6652/10354/10270/1507/10255
+
+### Gear from Bags
+#
+# 协同披风 (29)
+# back=,id=65274
+#
+# 裂心胸铠 (597)
+# chest=,id=150510,bonus_id=10273/10377/7756/10032/10255
+#
+# 纳因图斯的脊骨 (251)
+# waist=,id=137087,bonus_id=1811/3630,drop_level=45
+#
+# 空洞之戒 (400)
+# finger1=,id=226245
+#
+# 光明富泡酒咒符 (571)
+# trinket1=,id=117391,bonus_id=10297/9994/10254
+#
+# 暗月套牌：光辉 (577)
+# trinket1=,id=219672
+#
+# 虹吸光印 (603)
+# trinket1=,id=225653,bonus_id=6652/10271/3132/10255
+#
+# 炉铸好战者的刺戟 (574)
+# main_hand=,id=223860,bonus_id=10296/11140/3153/10254
+#
+# 曙光之古铸之剑 (571)
+# main_hand=,id=224703,bonus_id=10297/6652/1708/1643/10254
+#
+# 乌格拉克斯的小食捣碎器 (584)
+# main_hand=,id=212388,bonus_id=6652/10353/10281/1485/10255
+#
+# 狗头人智士的“镐锹” (450)
+# main_hand=,id=223484
+#
+# 反应式缠网纹章盾 (597)
+# off_hand=,id=218125,bonus_id=10273/42/3176/10255
+
+### Weekly Reward Choices
+#
+# 恶毒屠夫的肩铠 (593)
+# shoulder=,id=178749,bonus_id=10278/10388/6652/10377/10383/9878/10255
+#
+# 迅芯烛台 (616)
+# trinket1=,id=225649,bonus_id=6652/10263/3145/10255
+#
+# 未燃蜡纹披肩 (606)
+# back=,id=219190,bonus_id=10270/6652/10377/3185/10255
+#
+# 虹吸光印 (584)
+# trinket1=,id=225653,bonus_id=6652/10281/1656/10255
+#
+# 虔诚贡品的镣铐 (593)
+# wrist=,id=225587,bonus_id=6652/10877/10378/10353/10278/1494/10255
+#
+# 苏雷吉狂热者的徽章 (600)
+# neck=,id=225577,bonus_id=6652/10394/10393/10353/10276/1501/10255
+#
+# 老练土灵的巨石之铠 (584)
+# shoulder=,id=212424,bonus_id=6652/10378/10353/10281/1485/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2915:264/c:1792:4886/c:2916:3/c:2914:385/c:3008:2000/i:211296:3/i:210221:10/i:228338:2/i:211516:5/i:198048:1
+#
+# slot_high_watermarks=0:590:590/1:571:571/2:584:584/3:597:597/4:603:603/5:597:597/6:584:584/7:597:597/8:584:584/9:584:584/10:577:577/11:561:587/12:606:606/13:156:480/14:571:571/15:551:551/16:597:597
+#
+# upgrade_achievements=
+
+# Checksum: addfe19e

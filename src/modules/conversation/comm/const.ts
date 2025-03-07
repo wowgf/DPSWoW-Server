@@ -1,0 +1,1 @@
+export const USER_SOCKET_MAP_KEY = 'userSocketMap'

@@ -1,0 +1,30 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es2018",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "inlineSourceMap": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": false,
+    "stripInternal": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "pretty": true,
+    "declaration": false,
+    "noImplicitAny": false,
+    "typeRoots": [
+      "typings",
+      "./node_modules/@types"
+    ],
+    "outDir": "dist",
+    "rootDir": "src"
+  },
+  "exclude": [
+    "dist",
+    "node_modules",
+    "test"
+  ]
+}

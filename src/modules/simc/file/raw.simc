@@ -1,0 +1,107 @@
+# Base Actor
+warrior=火灬炎龙
+race=orc
+level=80
+spec=arms
+role=attack
+talents=CcEAmidFBOBFf5oKuZ7r/WeW7AgtZMjxMz8Az2stsMzMAAAAMYaYmhlZMDMjxMzgZGGYYGGAAAAAAAMjZZMGAxwYZbWMz2wmhhZmZajmBYB
+### Combo 1
+# Warsculptor's Barbute 590
+head=,id=211984,bonus_id=10876/10279/10371/1491
+# "Emergency Stop" Keychain 571
+neck=,id=221077,bonus_id=10297/10388/42/10394/10392/1606/10254
+# Warsculptor's Horned Spaulders 584
+shoulder=,id=211982,bonus_id=10281/10369/1485
+# Gem-Woven Cloak of the Harmonious 561
+back=,id=224664,bonus_id=10288/6652/1713/1633
+# Warsculptor's Furred Plastron 597
+chest=,id=211987,bonus_id=10353/10373/6652/10277/1498/10255
+# The Seeker's Wristguards 597
+wrist=,id=150473,bonus_id=10273/10377/7756/10032/10255
+# Sedimentary Gauntlets of the Fireflash 584
+hands=,id=224692,bonus_id=10281/6652/1696/10377/1656/10255
+# Girdle of the Gleaming Dawn 603
+waist=,id=225746,bonus_id=6652/10876/10376/10354/10271/1504/10255
+# Warsculptor's Cuisses 597
+legs=,id=211983,bonus_id=10353/10370/6652/10277/1498/10255
+# Boots of the Black Bulwark 584
+feet=,id=225590,bonus_id=6652/10378/10353/10281/1485/10255
+# Gem-Studded Ring of the Aurora 584
+finger1=,id=224662,bonus_id=10281/6652/10395/10392/1771/1656/10255
+# Ring of Endless Coils 610
+finger2=,id=171478,enchant_id=7335,bonus_id=10265/7756/8902/10017/10255
+# Algari Competitor's Medallion 558
+trinket1=,id=219931,bonus_id=11318/9627/10840
+# Algari Competitor's Emblem 558
+trinket2=,id=219933,bonus_id=11318/9627/10840
+# Anub'arash's Colossal Mandible 606
+main_hand=,id=212407,bonus_id=6652/10354/10270/1507/10255
+off_hand=,
+talents=CcEAAAAAAAAAAAAAAAAAAAAAAAgtZMjxMz8Az2stsMzMAAAAMYaYmhlZMDMjxMzgZGGYYGGAAAAAAAMjZZMGAxwYZbWMz2wmhhZmZajmBYB
+
+name=火灬炎龙
+
+# Consumables
+food=feast_of_the_midnight_masquerade
+
+# Expansion Options
+temporary_enchant=
+thewarwithin.dawn_dusk_thread_lining_uptime=0.6
+
+# Actors
+### Combo 2
+# Warsculptor's Barbute 590
+profileset."Combo 2"+=head=,id=211984,bonus_id=10876/10279/10371/1491
+# "Emergency Stop" Keychain 571
+profileset."Combo 2"+=neck=,id=221077,bonus_id=10297/10388/42/10394/10392/1606/10254
+# Vile Butcher's Pauldrons 593
+profileset."Combo 2"+=shoulder=,id=178749,bonus_id=10278/10388/6652/10377/10383/9878/10255
+# Gem-Woven Cloak of the Harmonious 561
+profileset."Combo 2"+=back=,id=224664,bonus_id=10288/6652/1713/1633
+# Warsculptor's Furred Plastron 597
+profileset."Combo 2"+=chest=,id=211987,bonus_id=10353/10373/6652/10277/1498/10255
+# The Seeker's Wristguards 597
+profileset."Combo 2"+=wrist=,id=150473,bonus_id=10273/10377/7756/10032/10255
+# Sedimentary Gauntlets of the Fireflash 584
+profileset."Combo 2"+=hands=,id=224692,bonus_id=10281/6652/1696/10377/1656/10255
+# Girdle of the Gleaming Dawn 603
+profileset."Combo 2"+=waist=,id=225746,bonus_id=6652/10876/10376/10354/10271/1504/10255
+# Warsculptor's Cuisses 597
+profileset."Combo 2"+=legs=,id=211983,bonus_id=10353/10370/6652/10277/1498/10255
+# Boots of the Black Bulwark 584
+profileset."Combo 2"+=feet=,id=225590,bonus_id=6652/10378/10353/10281/1485/10255
+# Gem-Studded Ring of the Aurora 584
+profileset."Combo 2"+=finger1=,id=224662,bonus_id=10281/6652/10395/10392/1771/1656/10255
+# Ring of Endless Coils 610
+profileset."Combo 2"+=finger2=,id=171478,enchant_id=7335,bonus_id=10265/7756/8902/10017/10255
+# Algari Competitor's Medallion 558
+profileset."Combo 2"+=trinket1=,id=219931,bonus_id=11318/9627/10840
+# Algari Competitor's Emblem 558
+profileset."Combo 2"+=trinket2=,id=219933,bonus_id=11318/9627/10840
+# Anub'arash's Colossal Mandible 606
+profileset."Combo 2"+=main_hand=,id=212407,bonus_id=6652/10354/10270/1507/10255
+profileset."Combo 2"+=off_hand=,
+profileset."Combo 2"+=talents=CcEAAAAAAAAAAAAAAAAAAAAAAAgtZMjxMz8Az2stsMzMAAAAMYaYmhlZMDMjxMzgZGGYYGGAAAAAAAMjZZMGAxwYZbWMz2wmhhZmZajmBYB
+
+
+
+# Simulation Options
+fight_style=DungeonSlice
+iterations=5000
+desired_targets=1
+max_time=360
+calculate_scale_factors=0
+scale_only=strength,intellect,agility,crit,mastery,vers,haste,weapon_dps,weapon_offhand_dps
+override.bloodlust=1
+override.arcane_intellect=1
+override.power_word_fortitude=1
+override.battle_shout=1
+override.mystic_touch=1
+override.chaos_brand=1
+override.skyfury=1
+override.mark_of_the_wild=1
+override.hunters_mark=1
+override.bleeding=1
+report_details=1
+single_actor_batch=1
+optimize_expressions=1

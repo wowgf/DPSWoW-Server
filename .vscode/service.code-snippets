@@ -1,0 +1,33 @@
+{
+  "service": {
+    "prefix": "service",
+    "body": [
+      "import { Init, Provide } from '@midwayjs/decorator';",
+      "import { BaseService } from '@cool-midway/core';",
+      "import { InjectEntityModel } from '@midwayjs/typeorm';",
+      "import { Repository } from 'typeorm';",
+      "",
+      "/**",
+      " * 描述",
+      " */",
+      "@Provide()",
+      "export class XxxService extends BaseService {",
+      "  @InjectEntityModel(实体)",
+      "  xxxEntity: Repository<实体>;",
+      ""
+      "  @Init()"
+      "  async init() {",
+      "    await super.init();",
+      "    this.setEntity(this.xxxEntity);",
+      "  }",
+      "",
+      "  /**",
+      "   * 描述",
+      "   */",
+      "  async xxx() {}",
+      "}",
+      ""
+    ],
+    "description": "cool-admin service代码片段"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "prefix": "entity",
+    "body": [
+      "import { BaseEntity } from '@cool-midway/core';",
+      "import { Column, Entity } from 'typeorm';",
+      "",
+      "/**",
+      " * 描述",
+      " */",
+      "@Entity('xxx_xxx_xxx')",
+      "export class XxxEntity extends BaseEntity {",
+      "  @Column({ comment: '描述' })",
+      "  xxx: string;",
+      "}",
+      ""
+    ],
+    "description": "cool-admin entity代码片段"
+  }
+}

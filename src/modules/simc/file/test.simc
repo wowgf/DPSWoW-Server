@@ -1,0 +1,176 @@
+#!./simc
+
+# Base Actor
+deathknight=狼王灬
+race=blood_elf
+level=80
+spec=unholy
+role=attack
+talents=CwPAtbMOTHlnKIwUyAn+DK70SDAzYMzMGjFjZmZmGzMmZMjBAAAAAAAAAmZMzMmZmBAsZGmFMzMzDMzMDYzsZYIDMbM0YBAmBA
+### Combo 1
+# Slag Accruing Mask 584
+head=,id=223295,bonus_id=10281/10377/1656/10255/10876
+# Gem-Studded Pendant of the Fireflash 580
+neck=,id=224665,bonus_id=6652/10395/10392/1759/10282/1652/10254
+# Chiseled Boulder Pauldrons 587
+shoulder=,id=223290,bonus_id=10280/1659/10255/10377
+# Forged Warmonger's Drape 574
+back=,id=223842,bonus_id=10296/11140/10375/3153/10254
+# Exhumed Centurion's Breastplate 584
+chest=,id=212005,bonus_id=10373/6652/10281/1485/10255
+# Earthforged Cuffs of the Fireflash 580
+wrist=,id=224623,bonus_id=6652/10877/1696/10844/10282/1507/10254
+# Dredger's Developed Gauntlets 583
+hands=,id=222479,bonus_id=11297/11298/9625/11142,crafted_stats=49/40
+# Stalwart Girdle of the Peerless 571
+waist=,id=224622,bonus_id=6652/10876/1685/10844/10285/1498/10254
+# Sedimentary Legguards of the Peerless 584
+legs=,id=224694,bonus_id=10281/6652/1689/1656/10255/10377
+# Sabatons of the Ringing Deeps 564
+feet=,id=223463,bonus_id=10287/1491
+# Spinner's Hoop of the Peerless 571
+finger1=,id=224592,bonus_id=6652/10395/10392/1751/10844/10285/1498/10254
+# Gem-Studded Signet of the Fireflash 571
+finger2=,id=224661,bonus_id=10297/6652/10394/10392/1759/1643/10254
+# Spelunker's Waning Candle 584
+trinket1=,id=225638,bonus_id=10281/6652/1656/10255
+# Darkmoon Deck: Ascension 577
+trinket2=,id=222680
+# Ironclaw Great Axe 583
+main_hand=,id=222470,enchant_id=3368,bonus_id=11297/11298/9625/11142,crafted_stats=40/49
+off_hand=,
+talents=CwPAAAAAAAAAAAAAAAAAAAAAAAAzYMzMGjFjZmZmGzMmZMjBAAAAAAAAAmZMzMmZmBAsZGmFMzMzDMzMDYzsZYIDMbM0YBAmBA
+
+name=狼王灬
+
+# Consumables
+
+# Expansion Options
+temporary_enchant=
+thewarwithin.dawn_dusk_thread_lining_uptime=0.6
+
+# Actors
+### Combo 2
+# Slag Accruing Mask 584
+profileset."Combo 2"+=head=,id=223295,bonus_id=10281/10377/1656/10255/10876
+# Gem-Studded Pendant of the Fireflash 580
+profileset."Combo 2"+=neck=,id=224665,bonus_id=6652/10395/10392/1759/10282/1652/10254
+# Chiseled Boulder Pauldrons 587
+profileset."Combo 2"+=shoulder=,id=223290,bonus_id=10280/1659/10255/10377
+# Forged Warmonger's Drape 574
+profileset."Combo 2"+=back=,id=223842,bonus_id=10296/11140/10375/3153/10254
+# Exhumed Centurion's Breastplate 584
+profileset."Combo 2"+=chest=,id=212005,bonus_id=10373/6652/10281/1485/10255
+# Earthforged Cuffs of the Fireflash 580
+profileset."Combo 2"+=wrist=,id=224623,bonus_id=6652/10877/1696/10844/10282/1507/10254
+# Dredger's Developed Gauntlets 583
+profileset."Combo 2"+=hands=,id=222479,bonus_id=11297/11298/9625/11142,crafted_stats=49/40
+# Stalwart Girdle of the Peerless 571
+profileset."Combo 2"+=waist=,id=224622,bonus_id=6652/10876/1685/10844/10285/1498/10254
+# Sedimentary Legguards of the Peerless 584
+profileset."Combo 2"+=legs=,id=224694,bonus_id=10281/6652/1689/1656/10255/10377
+# Sabatons of the Ringing Deeps 564
+profileset."Combo 2"+=feet=,id=223463,bonus_id=10287/1491
+# Spinner's Hoop of the Peerless 571
+profileset."Combo 2"+=finger1=,id=224592,bonus_id=6652/10395/10392/1751/10844/10285/1498/10254
+# Gem-Studded Signet of the Fireflash 571
+profileset."Combo 2"+=finger2=,id=224661,bonus_id=10297/6652/10394/10392/1759/1643/10254
+# Spelunker's Waning Candle 584
+profileset."Combo 2"+=trinket1=,id=225638,bonus_id=10281/6652/1656/10255
+# Darkmoon Deck: Ascension 577
+profileset."Combo 2"+=trinket2=,id=222680
+# Ironclaw Great Axe 590
+profileset."Combo 2"+=main_hand=,id=222470,enchant_id=3368,bonus_id=11297/11298/11142/1485,crafted_stats=40/49
+profileset."Combo 2"+=off_hand=,
+profileset."Combo 2"+=talents=CwPAAAAAAAAAAAAAAAAAAAAAAAAzYMzMGjFjZmZmGzMmZMjBAAAAAAAAAmZMzMmZmBAsZGmFMzMzDMzMDYzsZYIDMbM0YBAmBA
+
+### Combo 3
+# Slag Accruing Mask 584
+profileset."Combo 3"+=head=,id=223295,bonus_id=10281/10377/1656/10255/10876
+# Gem-Studded Pendant of the Fireflash 580
+profileset."Combo 3"+=neck=,id=224665,bonus_id=6652/10395/10392/1759/10282/1652/10254
+# Chiseled Boulder Pauldrons 587
+profileset."Combo 3"+=shoulder=,id=223290,bonus_id=10280/1659/10255/10377
+# Forged Warmonger's Drape 574
+profileset."Combo 3"+=back=,id=223842,bonus_id=10296/11140/10375/3153/10254
+# Exhumed Centurion's Breastplate 584
+profileset."Combo 3"+=chest=,id=212005,bonus_id=10373/6652/10281/1485/10255
+# Earthforged Cuffs of the Fireflash 580
+profileset."Combo 3"+=wrist=,id=224623,bonus_id=6652/10877/1696/10844/10282/1507/10254
+# Dredger's Developed Gauntlets 583
+profileset."Combo 3"+=hands=,id=222479,bonus_id=11297/11298/9625/11142,crafted_stats=49/40
+# Stalwart Girdle of the Peerless 571
+profileset."Combo 3"+=waist=,id=224622,bonus_id=6652/10876/1685/10844/10285/1498/10254
+# Sedimentary Legguards of the Peerless 606
+profileset."Combo 3"+=legs=,id=224694,bonus_id=10281/6652/1689/10255/10377/10274/3135
+# Sabatons of the Ringing Deeps 564
+profileset."Combo 3"+=feet=,id=223463,bonus_id=10287/1491
+# Spinner's Hoop of the Peerless 571
+profileset."Combo 3"+=finger1=,id=224592,bonus_id=6652/10395/10392/1751/10844/10285/1498/10254
+# Gem-Studded Signet of the Fireflash 571
+profileset."Combo 3"+=finger2=,id=224661,bonus_id=10297/6652/10394/10392/1759/1643/10254
+# Spelunker's Waning Candle 584
+profileset."Combo 3"+=trinket1=,id=225638,bonus_id=10281/6652/1656/10255
+# Darkmoon Deck: Ascension 577
+profileset."Combo 3"+=trinket2=,id=222680
+# Ironclaw Great Axe 583
+profileset."Combo 3"+=main_hand=,id=222470,enchant_id=3368,bonus_id=11297/11298/9625/11142,crafted_stats=40/49
+profileset."Combo 3"+=off_hand=,
+profileset."Combo 3"+=talents=CwPAAAAAAAAAAAAAAAAAAAAAAAAzYMzMGjFjZmZmGzMmZMjBAAAAAAAAAmZMzMmZmBAsZGmFMzMzDMzMDYzsZYIDMbM0YBAmBA
+
+### Combo 4
+# Slag Accruing Mask 584
+profileset."Combo 4"+=head=,id=223295,bonus_id=10281/10377/1656/10255/10876
+# Gem-Studded Pendant of the Fireflash 580
+profileset."Combo 4"+=neck=,id=224665,bonus_id=6652/10395/10392/1759/10282/1652/10254
+# Chiseled Boulder Pauldrons 587
+profileset."Combo 4"+=shoulder=,id=223290,bonus_id=10280/1659/10255/10377
+# Forged Warmonger's Drape 574
+profileset."Combo 4"+=back=,id=223842,bonus_id=10296/11140/10375/3153/10254
+# Exhumed Centurion's Breastplate 584
+profileset."Combo 4"+=chest=,id=212005,bonus_id=10373/6652/10281/1485/10255
+# Earthforged Cuffs of the Fireflash 580
+profileset."Combo 4"+=wrist=,id=224623,bonus_id=6652/10877/1696/10844/10282/1507/10254
+# Dredger's Developed Gauntlets 583
+profileset."Combo 4"+=hands=,id=222479,bonus_id=11297/11298/9625/11142,crafted_stats=49/40
+# Stalwart Girdle of the Peerless 571
+profileset."Combo 4"+=waist=,id=224622,bonus_id=6652/10876/1685/10844/10285/1498/10254
+# Sedimentary Legguards of the Peerless 606
+profileset."Combo 4"+=legs=,id=224694,bonus_id=10281/6652/1689/10255/10377/10274/3135
+# Sabatons of the Ringing Deeps 564
+profileset."Combo 4"+=feet=,id=223463,bonus_id=10287/1491
+# Spinner's Hoop of the Peerless 571
+profileset."Combo 4"+=finger1=,id=224592,bonus_id=6652/10395/10392/1751/10844/10285/1498/10254
+# Gem-Studded Signet of the Fireflash 571
+profileset."Combo 4"+=finger2=,id=224661,bonus_id=10297/6652/10394/10392/1759/1643/10254
+# Spelunker's Waning Candle 584
+profileset."Combo 4"+=trinket1=,id=225638,bonus_id=10281/6652/1656/10255
+# Darkmoon Deck: Ascension 577
+profileset."Combo 4"+=trinket2=,id=222680
+# Ironclaw Great Axe 590
+profileset."Combo 4"+=main_hand=,id=222470,enchant_id=3368,bonus_id=11297/11298/11142/1485,crafted_stats=40/49
+profileset."Combo 4"+=off_hand=,
+profileset."Combo 4"+=talents=CwPAAAAAAAAAAAAAAAAAAAAAAAAzYMzMGjFjZmZmGzMmZMjBAAAAAAAAAmZMzMmZmBAsZGmFMzMzDMzMDYzsZYIDMbM0YBAmBA
+
+
+# Simulation Options
+iterations=1000
+desired_targets=1
+max_time=300
+calculate_scale_factors=0
+scale_only=strength,intellect,agility,crit,mastery,vers,haste,weapon_dps,weapon_offhand_dps
+override.bloodlust=1
+override.arcane_intellect=1
+override.power_word_fortitude=1
+override.battle_shout=1
+override.mystic_touch=1
+override.chaos_brand=1
+override.skyfury=1
+override.mark_of_the_wild=1
+override.hunters_mark=1
+override.bleeding=1
+report_details=1
+single_actor_batch=1
+optimize_expressions=1
+html=report.html
+json2=report.json
